@@ -1,0 +1,36 @@
+h1{
+    color: red;
+}
+h2{
+    color: rgb(9, 255, 9);
+    font-style: italic;
+}
+ol li span{
+    background-color: yellow;
+    font-weight: bold;
+}
+ul{
+    color: brown;
+    letter-spacing: 5px;
+}
+ul span{
+    background-color: yellow;
+    font-weight: bold;
+}
+h3{
+    color: brown;
+    font-weight: lighter;
+}
+#p2{
+    color: brown;
+    font-size: 9px;
+}
+#p3{
+    color: brown;
+    font-style: italic;
+}
+a{
+    background-color: yellow;
+    color: brown;
+    text-decoration: none;
+}
